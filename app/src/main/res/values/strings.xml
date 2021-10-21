@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">codingChallenge_mobile</string>
+    <string name="house_detail_region"><u>Region:</u> %s</string>
+    <string name="house_detail_currentlord"><u>Current Lord:</u> %s</string>
+    <string name="house_detail_overlord"><u>Overlord:</u> %s</string>
+    <string name="house_detail_heir"><u>Heir:</u> %s</string>
+    <string name="house_detail_founder"><u>Founder:</u> %s</string>
+    <string name="house_detail_words"><u>Words:</u> %s</string>
+    <string name="house_detail_founded"><u>Founded:</u> %s</string>
+    <string name="house_detail_died"><u>Died Out:</u> %s</string>
+    <string name="house_detail_coat"><u>Coat of Arms:</u> %s</string>
+</resources>
